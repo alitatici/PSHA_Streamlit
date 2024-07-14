@@ -1,4 +1,3 @@
 # PSHA_Streamlit
 
-webGUI is online.
-https://pshaapp.streamlit.app/
+https://pshaapp.streamlit.app/ webGUI is online.
