@@ -49,6 +49,9 @@ class magnitudeScaling():
             else:
                 ruptureLength = np.sqrt(ruptureArea * aspectRatio)
 
+            if ruptureLength > self.faultLength
+                ruptureLength = self.faultLength
+            
             ruptureLenghtList.append(round(ruptureLength, 3))
 
         self.ruptureLength = ruptureLenghtList
